@@ -126,8 +126,9 @@ Following CPUs are supported, check out `Supported Devices`_ for comprehensive l
 | Infineon     | XMC4500                                                    |
 +--------------+------------------------------------------------------------+
 |              | SAM:  D11, D21, D51, E5x, G55, L2x, E7x, S7x, V7x          |
-|  MicroChip   |                                                            |
-|              | PIC:  24, 32mm, 32mk, 32mx, 32mz, dsPIC33                  |
+|              |                                                            |
+|  MicroChip   | PIC:  24, 32mm, 32mk, 32mx, 32mz, dsPIC33                  |
+|              |                                                            |
 |              | AVR:  AVR32DU32, AVR64DU32                                 |
 +--------------+------------------------------------------------------------+
 | Mind Montion | mm32                                                       |
