@@ -1,0 +1,3 @@
+CFLAGS += -DF_CPU=24000000UL -mmcu=avr16du14 -D__AVR_DEV_LIB_NAME__=avr16du14
+
+LDFLAGS += -mmcu=avr16du14
